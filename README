@@ -1,0 +1,57 @@
+Module Description
+
+Perl Oak Component Tree - DBI based entity super class
+This class implements the functionality of a Entity class based on
+DBI, in a way you just have to create some stub methods to have the
+class working.
+
+The Perl Oak Component tree is a implementation of a complete
+framework for designing enterprise applications.
+
+The main areas of Oak are:
+* Base patterns for OOP (liboak-perl)
+* Interface development (liboak-web-perl and future liboak-gtk-perl,
+liboak-tk-perl, liboak-qt-perl)
+* Business Control (liboak-perl, liboak-controller-entityhelper-perl)
+* Data Management (packages liboak-io-dbi-perl, libfiler-dbi-perl,
+liboak-dbientity-perl)
+* Authentication and Authorization (liboak-aas-perl,
+liboak-aas-service-dbi-perl, liboak-aas-service-dbinpam-perl)
+* Distributed System (liboak-soap-perl)
+* System Configuration (liboak-filer-xml-perl, liboak-io-config-perl)
+* Logging (liboak-io-log-perl, liboak-io-log-syslog-perl)
+
+For more information and documentation, please refer to
+http://perl-oak.sourceforge.net
+
+
+Copyright
+
+
+Authors:
+
+Project Initiated by:
+ Daniel Ruoso <daniel@ruoso.com>
+
+With the important help of:
+ Aguimar Mendonca Neto <aguimar@email.com.br>
+ Rodolfo Sikora de Melo <vo0do0@trevas.net>
+ Carlos Eduardo de Andrade Brasileiro <eduardo@oktiva.com.br>
+ Marcelo de Paula Bezerra <mosca@oktiva.com.br>
+ Oktiva Telecomunicações e Informática <http://www.oktiva.com.br>
+ Inova Tecnologias <http://www.inova.com.br>
+
+Copyright:
+
+This program is free software; you can redistribute it and/or modify
+it under the terms of either:
+
+a) the GNU General Public License as published by the Free Software
+   Foundation; either version 1, or (at your option) any later
+   version, or
+b) the "Artistic License" which comes with Perl.
+
+On Debian GNU/Linux systems, the complete text of the GNU General
+Public License can be found in `/usr/share/common-licenses/GPL' and
+the Artistic Licence in `/usr/share/common-licenses/Artistic'.
+
